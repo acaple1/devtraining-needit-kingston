@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_index">
+    <sys_index action="INSERT_OR_UPDATE">
+        <col_name_string>id,name</col_name_string>
+        <index_col_name>ea79b822f822030059a64c78fda74a59,2279b822f822030059a64c78fda74a59</index_col_name>
+        <logical_table_name>cmn_department</logical_table_name>
+        <sys_class_name>sys_index</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2018-04-05 16:24:50</sys_created_on>
+        <sys_id>5510fb91db911300438c711ebf9619be</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>cmn_department</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sys_index_cmn_department_id_name</sys_update_name>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2018-04-05 16:24:50</sys_updated_on>
+        <table display_value="Department" name="cmn_department">2279b822f822030059a64c78fda74a57</table>
+        <unique_index>false</unique_index>
+    </sys_index>
+</record_update>

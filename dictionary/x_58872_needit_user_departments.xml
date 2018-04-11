@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element extends="sys_import_set_row" label="User Departments" max_length="40" name="x_58872_needit_user_departments" type="collection">
+        <element attributes="import_attribute_name=dept_head,edge_encryption_enabled=true" label="dept_head" max_length="40" name="u_dept_head" type="string"/>
+        <element attributes="import_attribute_name=description,edge_encryption_enabled=true" label="description" max_length="40" name="u_description" type="string"/>
+        <element attributes="import_attribute_name=id,edge_encryption_enabled=true" label="id" max_length="40" name="u_id" type="string"/>
+        <element attributes="import_attribute_name=name,edge_encryption_enabled=true" label="name" max_length="40" name="u_name" type="string"/>
+        <element attributes="import_attribute_name=primary_contact,edge_encryption_enabled=true" label="primary_contact" max_length="40" name="u_primary_contact" type="string"/>
+        <element attributes="import_attribute_name=sys_updated_on,edge_encryption_enabled=true" label="sys_updated_on" max_length="40" name="u_sys_updated_on" type="string"/>
+    </element>
+</database>
